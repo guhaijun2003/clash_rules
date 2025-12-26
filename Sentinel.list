@@ -1,0 +1,16 @@
+#apple_podcasts
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,podcasts.apple.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN,bookkeeper.itunes.apple.com
+#airplane
+- DOMAIN-SUFFIX,cshjc.net
+- DOMAIN-SUFFIX,llgjc1.com
+- DOMAIN-SUFFIX,llgjc.xyz
+- DOMAIN-SUFFIX,client.relay.crisp.chat
+- DOMAIN-SUFFIX,client.crisp.chat
+- DOMAIN-SUFFIX,api.fuckcdn.top
+- DOMAIN-SUFFIX,mitce.net
+*Torrent Site
+- DOMAIN-SUFFIX,skrbtnv.top
+- DOMAIN-SUFFIX,skrbtso.top
