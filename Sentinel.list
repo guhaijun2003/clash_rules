@@ -1,8 +1,8 @@
 #apple_podcasts
-DOMAIN,amp-api.podcasts.apple.com
-DOMAIN,podcasts.apple.com
-DOMAIN,bag.itunes.apple.com
-DOMAIN,bookkeeper.itunes.apple.com
+DOMAIN-SUFFIX,amp-api.podcasts.apple.com
+DOMAIN-SUFFIX,podcasts.apple.com
+DOMAIN-SUFFIX,bag.itunes.apple.com
+DOMAIN-SUFFIX,bookkeeper.itunes.apple.com
 #airplane
 DOMAIN-SUFFIX,cshjc.net
 DOMAIN-SUFFIX,llgjc1.com
