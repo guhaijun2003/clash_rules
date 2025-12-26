@@ -14,9 +14,10 @@ DOMAIN-SUFFIX,mitce.net
 #Torrent Site
 DOMAIN-SUFFIX,skrbtnv.top
 DOMAIN-SUFFIX,skrbtso.top
-
 #Blog
-qichiyu.com
-bulianglin.com
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,bulianglin.com
+#
+DOMAIN-SUFFIX,downsub.com
 
 
