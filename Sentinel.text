@@ -19,5 +19,14 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,bulianglin.com
 #
 DOMAIN-SUFFIX,downsub.com
+#Gemini
+generativelanguage.googleapis.com
+ai.google.dev
+makersuite.google.com
+accounts.google.com
+ssl.gstatic.com
+fonts.googleapis.com
+fonts.gstatic.com
+www.googleapis.com
 
 
